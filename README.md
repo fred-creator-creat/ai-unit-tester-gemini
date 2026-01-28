@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte do desafio técnico do **Bootcamp BairesDev - Machine Learning Training**, realizado na plataforma **[DIO](https://www.dio.me/)** em parceria com a **[BairesDev](https://www.bairesdev.com/)**. O objetivo é criar um agente inteligente que utiliza Modelos de Linguagem de Grande Escala (LLM) para analisar códigos Python e gerar suítes de testes automatizados com 100% de cobertura.
 
 ## 👤 Desenvolvedor
-* **Idealizador e Desenvolvedor:** Fred Cvalheiro
+* **Idealizador e Desenvolvedor:** Fred Cavalheiro
 * **Assistente Técnico:** Gemini (IA Collaboration)
 
 ## 📋 Sobre o Projeto
